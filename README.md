@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @sQlc0
+- 👀 I’m interested in ...
+                            AI/ML derived operating systems, computational life sciences, and AI intigration 
+- 🌱 I’m currently learning ...
+                            Net+/Sec+, pentesting, python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+                            twitter.com/SGibford
+
+<!---
+sQlc0/sQlc0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
