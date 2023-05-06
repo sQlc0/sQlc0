@@ -2,14 +2,11 @@
 
 ### Research Interests
 -Quantum Machine Learning 
-
--Novel HSG Quantum Stochastic Gradient Decent algorithm 
-
--Quatnum Neural Networks
-
+-Quantum Simulation
+-Quantum Chemistry
 
 ### Information
-Pursuing a master's degree Indiana University in Quantum Information Science. I am actively studying Quantum Computation and Applied Machine Learning
+Pursuing a master's degree Indiana University in Quantum Information Science.
                      
  
  [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/SGibford)                            
